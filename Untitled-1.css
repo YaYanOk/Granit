@@ -1,0 +1,157 @@
+@font-face {
+    font-family: "GothamPro";
+    src: url("gothampro.ttf");
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-family: "GothamPro";
+}
+#logo {
+    margin-left: 300px;
+    width: 40px;
+    margin-right: 0;
+}
+#granit{
+    margin-left: 50px;
+    margin-top: -65px;
+}
+#material{
+    width: 300px;
+    margin-left: 50px;
+    margin-top: -20px;
+    color: #969696;
+}
+#tel{
+    margin-left: 900px;
+    margin-top: -60px;
+}
+#free{
+    margin-left: 844px;
+    margin-top: -20px;
+    color: #969696;
+}
+#button{
+    width: 150px;
+    height: 40px;
+    border: 2px solid black;
+    background: white;
+}
+#buton{
+    margin-left: 1070px;
+    margin-top: -60px;
+}
+#svanok{
+    margin-top: 10px;
+}
+#menu{
+    background-color: yellow;
+    height: 50px;
+    width: 900px;
+    margin-left: 300px;
+    word-spacing: 80px;
+}
+#men{
+    margin-left: 30px;
+    padding-top: 15px;
+}
+#dost{
+    color: white;
+    margin-top: -450px;
+    margin-left: 300px;
+}
+#dost1{
+    color: white;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+#podr{
+    background: yellow;
+    width: 250px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+#or{
+    color: white;
+    margin-left: 570px;
+    margin-top: -40px;
+}
+#or1{
+    color: white;
+    margin-left: 620px;
+    margin-top: -40px;
+}
+
+#order {
+  padding: 80px 0;
+}
+
+#order .cards {
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+          margin-top: 100px;
+}
+
+#order .cards .card {
+  text-align: center;
+  width: 300px;
+  border: 2px solid #f6f6f6;
+  padding: 35px 0px;
+}
+
+#order .cards .card .content {
+  max-width: 240px;
+  display: inline-block;
+}
+
+#order .cards .card .content h4 {
+  font-size: 15pt;
+  color: #292929;
+  
+}
+
+#order .cards .card .content p.desc {
+  font-size: 13pt;
+}
+
+#order .cards .card .content p.price {
+  font-size: 16pt;
+  font-weight: bold;
+}
+
+.bgYellowBtn {
+  background-color: #ffd200;
+  color: black;
+  height: 50px;
+  width: 150px;
+  font-size: 15px;
+}
+
+.d-flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 940px;
+}
+
+.centerW {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+#always{
+    margin-top: 150px;
+    margin-left: 350px;
+}
+
+#color{
+    background-color: #f6f6f6;
+}
